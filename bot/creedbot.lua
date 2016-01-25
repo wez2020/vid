@@ -242,9 +242,9 @@ function create_config( )
     },
     sudo_users = {70480064,158492446,141922674},--Sudo users
     disabled_channels = {},
-    realm = {},--Realms Id
+    realm = {71074637},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.3
+    about_text = [[tele TEL LAMON 2.3
     
      Hello my Good friends 
      
@@ -346,7 +346,7 @@ You Can user both "!" & "/" for them
 
 ]],
     help_text = [[
-Creed bots Help for mods : Plugins
+RLMON Help for mods : Plugins
 
 Banhammer : 
 
